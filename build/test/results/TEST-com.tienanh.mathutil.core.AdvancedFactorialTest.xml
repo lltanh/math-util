@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="TienAnh" name="com.tienanh.mathutil.core.AdvancedFactorialTest" skipped="0" tests="6" time="0.048" timestamp="2021-09-28T02:28:50">
+<testsuite errors="0" failures="0" hostname="TienAnh" name="com.tienanh.mathutil.core.AdvancedFactorialTest" skipped="0" tests="7" time="0.051" timestamp="2021-09-28T03:20:58">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
     <property name="netbeans.autoupdate.country" value="US" />
@@ -56,12 +56,12 @@
     <property name="user.name" value="letie" />
     <property name="libs.jsf12.javadoc" value="D:\APP\netbeans-12.4-bin\netbeans\enterprise\docs\javaee-doc-api.jar" />
     <property name="libs.Comet-GlassFish-v3.javadoc" value="" />
-    <property name="tmp.manifest.file" value="C:\Users\letie\Documents\NetBeansProjects\math-util\build\null2125102743" />
+    <property name="tmp.manifest.file" value="C:\Users\letie\Documents\NetBeansProjects\math-util\build\null1530129547" />
     <property name="copylibs.rebase" value="true" />
     <property name="libs.spring-webmvc5.0.javadoc" value="" />
     <property name="libs.spring-framework500.classpath" value="D:\APP\netbeans-12.4-bin\netbeans\platform\modules\org-apache-commons-logging.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\cglib-2.2.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-aop-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-aspects-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-beans-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-context-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-context-indexer-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-context-support-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-core-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-expression-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-instrument-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-jcl-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-jdbc-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-jms-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-messaging-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-orm-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-oxm-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-test-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-tx-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-web-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-webflux-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-webmvc-5.2.9.RELEASE.jar;D:\APP\netbeans-12.4-bin\netbeans\java\modules\ext\spring-5\spring-websocket-5.2.9.RELEASE.jar" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.tienanh.mathutil.core.AdvancedFactorialTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\letie\Documents\NetBeansProjects\math-util\build\test\results\TEST-com.tienanh.mathutil.core.AdvancedFactorialTest.xml crashfile=C:\Users\letie\Documents\NetBeansProjects\math-util\build\junitvmwatcher6497872781549426024.properties propsfile=C:\Users\letie\Documents\NetBeansProjects\math-util\build\junit7063871804451485002.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.tienanh.mathutil.core.AdvancedFactorialTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\letie\Documents\NetBeansProjects\math-util\build\test\results\TEST-com.tienanh.mathutil.core.AdvancedFactorialTest.xml crashfile=C:\Users\letie\Documents\NetBeansProjects\math-util\build\junitvmwatcher1764173986271420218.properties propsfile=C:\Users\letie\Documents\NetBeansProjects\math-util\build\junit3738788261629377856.properties" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="build.sysclasspath" value="ignore" />
     <property name="manifest.encoding" value="UTF-8" />
@@ -430,12 +430,13 @@
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
     <property name="libs.javaee-web-api-7.0.javadoc" value="D:\APP\netbeans-12.4-bin\netbeans\enterprise\docs\javaee-doc-api.jar" />
   </properties>
-  <testcase classname="com.tienanh.mathutil.core.AdvancedFactorialTest" name="checkFactorialGivenRightArgumentReturnsWell[0]" time="0.002" />
+  <testcase classname="com.tienanh.mathutil.core.AdvancedFactorialTest" name="checkFactorialGivenRightArgumentReturnsWell[0]" time="0.003" />
   <testcase classname="com.tienanh.mathutil.core.AdvancedFactorialTest" name="checkFactorialGivenRightArgumentReturnsWell[1]" time="0.0" />
   <testcase classname="com.tienanh.mathutil.core.AdvancedFactorialTest" name="checkFactorialGivenRightArgumentReturnsWell[2]" time="0.0" />
   <testcase classname="com.tienanh.mathutil.core.AdvancedFactorialTest" name="checkFactorialGivenRightArgumentReturnsWell[3]" time="0.0" />
-  <testcase classname="com.tienanh.mathutil.core.AdvancedFactorialTest" name="checkFactorialGivenRightArgumentReturnsWell[4]" time="0.001" />
+  <testcase classname="com.tienanh.mathutil.core.AdvancedFactorialTest" name="checkFactorialGivenRightArgumentReturnsWell[4]" time="0.0" />
   <testcase classname="com.tienanh.mathutil.core.AdvancedFactorialTest" name="checkFactorialGivenRightArgumentReturnsWell[5]" time="0.0" />
+  <testcase classname="com.tienanh.mathutil.core.AdvancedFactorialTest" name="checkFactorialGivenRightArgumentReturnsWell[6]" time="0.0" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
