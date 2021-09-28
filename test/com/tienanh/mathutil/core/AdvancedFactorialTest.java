@@ -48,7 +48,7 @@ public class AdvancedFactorialTest {
                                     {3, 6},
                                     {4, 24},
                                     {5, 120}, // bổ sung test CI
-                                    {6, 7720}, // cố tình đỏ
+                                    {6, 720}, // cố tình đỏ
                                 };
     }
    
