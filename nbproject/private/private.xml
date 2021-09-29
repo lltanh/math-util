@@ -3,7 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/letie/Documents/NetBeansProjects/math-util/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/letie/Documents/NetBeansProjects/math-util/src/com/tienanh/mathutil/main/Main.java</file>
+            <file>file:/C:/Users/letie/Documents/NetBeansProjects/math-util/test/com/tienanh/mathutil/core/AdvancedFactorialTest.java</file>
+            <file>file:/C:/Users/letie/Documents/NetBeansProjects/math-util/test/com/tienanh/mathutil/core/FactorialTest.java</file>
+            <file>file:/C:/Users/letie/Documents/NetBeansProjects/math-util/src/com/tienanh/mathutil/core/MathUtil.java</file>
         </group>
     </open-files>
 </project-private>

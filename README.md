@@ -9,7 +9,7 @@
 * ...   
 
 ### Sceen shot
-![The JUnit code with TDD](© 2020 giáo.làng | fb/giao.lang.bis)
-=======
-* ... 
->>>>>>> 000a0bb4c80b24c4f133a23deac6868b8b2b2c37
+![The JUnit code with TDD](https://github.com/lltanh/math-util/blob/main/images/Math-Util%20intro.png)
+
+#### © 2021 giáo.làng | fb/giao.lang.bis
+
