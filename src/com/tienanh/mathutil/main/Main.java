@@ -21,6 +21,11 @@ public class Main {
         System.out.println("5! = 120? " + MathUtil.getFactorial(5));
         System.out.println("6! = 720? " + MathUtil.getFactorial(6)); //modify by someone
     }
+    
+    public static void testFactorialSuccessfulCases(){
+                System.out.println("0! = 1? " + MathUtil.getFactorial(0));
+
+    }
 }
 
 // tự nhìn, tự so sánh, tự kết luận cho từng trường hợp và cho all
