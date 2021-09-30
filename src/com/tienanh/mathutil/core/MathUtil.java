@@ -57,4 +57,5 @@ public class MathUtil {
     // f(5) -> 25
     //sure, getF(5) -> 120
     //      getF(6) -> 720
+    }
 }
